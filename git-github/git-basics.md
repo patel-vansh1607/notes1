@@ -116,3 +116,4 @@ git commit -m "done"
 These are unclear and unhelpful for team collaboration or tracking project history.
 
 ## ✨ Tips:
+- Use the imperative mood: `Add`, `Fix`, `Update` (not `Added`, `Fixed`)
