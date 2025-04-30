@@ -113,3 +113,4 @@ git commit -m "update"
 git commit -m "fix stuff"
 git commit -m "done"
 ```
+These are unclear and unhelpful for team collaboration or tracking project history.
