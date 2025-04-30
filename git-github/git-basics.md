@@ -119,3 +119,4 @@ These are unclear and unhelpful for team collaboration or tracking project histo
 - Use the imperative mood: `Add`, `Fix`, `Update` (not `Added`, `Fixed`)
 - Keep the first line under 50 characters
 - Add a blank line between the summary and description (if writing a longer message)
+- Explain the *why*, not just the *what*, especially in the long description
