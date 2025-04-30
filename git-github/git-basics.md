@@ -19,3 +19,7 @@ git init
 - `git clone` is used to create a **local copy** of a remote repository (like one from GitHub).
 - It downloads the full repository history so you can work with it locally.
 - Commonly used to contribute to other projects or work with collaborators.
+
+```bash
+git clone <repository-url>
+```
