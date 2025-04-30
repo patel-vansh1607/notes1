@@ -62,3 +62,4 @@ git add -A              # Adds all changes including deletions
 
 - Use `git add` to tell Git *“Hey, I want to include this file in the next commit.”*
 ---
+## 🟡 `git commit`
