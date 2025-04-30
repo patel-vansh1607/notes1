@@ -55,3 +55,4 @@ git status
 - You can stage specific files, folders, or all changes.
 
 ```bash
+git add <filename>      # Adds a specific file
