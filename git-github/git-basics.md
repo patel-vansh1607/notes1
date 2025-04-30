@@ -107,3 +107,9 @@ git commit -m "style: format code using Prettier"
 ```
 
 ## ❌ Bad Examples:
+
+```bash
+git commit -m "update"
+git commit -m "fix stuff"
+git commit -m "done"
+```
