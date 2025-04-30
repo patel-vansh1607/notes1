@@ -80,3 +80,5 @@ git commit -m "Your commit message"
 
 # 📝 Commit Message Best Practices
 A good commit message helps you and others understand what changes have been made and why. Here are some guidelines:
+
+## ✅ Structure:
