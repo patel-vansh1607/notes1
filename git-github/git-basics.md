@@ -71,3 +71,5 @@ git add -A              # Adds all changes including deletions
 ```bash
 git commit -m "Your commit message"
 ```
+
+- The message should be **clear and meaningful** (see best practices below).
