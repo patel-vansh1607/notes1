@@ -93,3 +93,4 @@ A good commit message helps you and others understand what changes have been mad
 - `feat`: A new feature
 - `fix`: A bug fix
 - `docs`: Changes to documentation
+- `style`: Code style/formatting (white-space, formatting, etc)
