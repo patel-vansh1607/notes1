@@ -17,3 +17,4 @@ git init
 ---
 ## 🟡 `git clone`
 - `git clone` is used to create a **local copy** of a remote repository (like one from GitHub).
+- It downloads the full repository history so you can work with it locally.
