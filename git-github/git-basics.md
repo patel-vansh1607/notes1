@@ -40,3 +40,7 @@ git clone https://github.com/username/project.git
   - Untracked (new files)
   - Modified but not staged
   - Staged but not committed
+
+```bash
+git status
+```
