@@ -8,3 +8,5 @@
 - You only run it **once per project** (unless you remove `.git`).
 
 ```bash
+git init
+```
