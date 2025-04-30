@@ -114,7 +114,7 @@ git commit -m "fix stuff"
 git commit -m "done"
 ```
 These are unclear and unhelpful for team collaboration or tracking project history.
-  
+   
 ## ✨ Tips:
 - Use the imperative mood: `Add`, `Fix`, `Update` (not `Added`, `Fixed`)
 - Keep the first line under 50 characters
