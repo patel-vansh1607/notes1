@@ -91,3 +91,4 @@ A good commit message helps you and others understand what changes have been mad
 ## ✅ Examples of Types:
 
 - `feat`: A new feature
+- `fix`: A bug fix
