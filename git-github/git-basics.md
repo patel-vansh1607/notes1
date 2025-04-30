@@ -67,3 +67,7 @@ git add -A              # Adds all changes including deletions
 - Takes the staged changes and **records them** in the repository history.
 - Commits are like save points in your project.
 - Always include a **commit message** to describe what was changed.
+
+```bash
+git commit -m "Your commit message"
+```
