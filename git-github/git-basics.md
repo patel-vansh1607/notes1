@@ -12,3 +12,4 @@ git init
 ```
 
 - After running `git init`, your folder becomes a Git repository.
+- You can now start tracking changes to files in the project.
