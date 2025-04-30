@@ -6,7 +6,7 @@
 - It creates a hidden `.git` directory where Git stores all the metadata and version history of the project.
 - Use it when starting a new project that isn’t already under version control.
 - You only run it **once per project** (unless you remove `.git`).
- 
+  
 ```bash
 git init
 ```
