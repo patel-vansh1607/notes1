@@ -56,3 +56,4 @@ git status
 
 ```bash
 git add <filename>      # Adds a specific file
+git add .               # Adds all changes in the current directory
