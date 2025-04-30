@@ -96,3 +96,4 @@ A good commit message helps you and others understand what changes have been mad
 - `style`: Code style/formatting (white-space, formatting, etc)
 - `refactor`: Code changes that neither fix a bug nor add a feature
 - `test`: Adding or updating tests
+
