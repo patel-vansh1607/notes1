@@ -58,3 +58,4 @@ git status
 git add <filename>      # Adds a specific file
 git add .               # Adds all changes in the current directory
 git add -A              # Adds all changes including deletions
+```
