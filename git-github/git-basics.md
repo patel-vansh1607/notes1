@@ -87,3 +87,5 @@ A good commit message helps you and others understand what changes have been mad
 
 <optional longer description>
 ```
+
+## ✅ Examples of Types:
