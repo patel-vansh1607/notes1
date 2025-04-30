@@ -15,3 +15,4 @@ git init
 - You can now start tracking changes to files in the project.
 
 ---
+## 🟡 `git clone`
