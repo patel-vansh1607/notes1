@@ -105,3 +105,5 @@ git commit -m "fix: resolve crash on null user input"
 git commit -m "docs: update README with setup instructions"
 git commit -m "style: format code using Prettier"
 ```
+
+## ❌ Bad Examples:
