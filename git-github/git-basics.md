@@ -48,3 +48,5 @@ git status
 - Use this frequently to understand what's happening before committing.
 - Very helpful in debugging issues related to what is staged vs what isn’t.
 ---
+
+## 🟡 `git add`
