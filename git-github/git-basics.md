@@ -39,3 +39,4 @@ git clone https://github.com/username/project.git
 - It tells you which files are:
   - Untracked (new files)
   - Modified but not staged
+  - Staged but not committed
