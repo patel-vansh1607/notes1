@@ -25,3 +25,7 @@ git clone <repository-url>
 ```
 
 - Example:
+
+```bash
+git clone https://github.com/username/project.git
+```
