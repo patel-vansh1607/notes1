@@ -53,3 +53,5 @@ git status
 - Adds file changes to the **staging area**.
 - This is the step before committing.
 - You can stage specific files, folders, or all changes.
+
+```bash
