@@ -65,3 +65,4 @@ git add -A              # Adds all changes including deletions
 ## 🟡 `git commit`
 
 - Takes the staged changes and **records them** in the repository history.
+- Commits are like save points in your project.
