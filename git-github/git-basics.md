@@ -59,3 +59,5 @@ git add <filename>      # Adds a specific file
 git add .               # Adds all changes in the current directory
 git add -A              # Adds all changes including deletions
 ```
+
+- Use `git add` to tell Git *“Hey, I want to include this file in the next commit.”*
