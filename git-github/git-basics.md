@@ -10,3 +10,5 @@
 ```bash
 git init
 ```
+
+- After running `git init`, your folder becomes a Git repository.
