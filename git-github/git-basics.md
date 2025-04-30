@@ -74,3 +74,5 @@ git commit -m "Your commit message"
 
 - The message should be **clear and meaningful** (see best practices below).
 - If you run `git commit` without `-m`, Git will open a text editor for you to write a message.
+
+---
