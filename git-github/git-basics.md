@@ -51,3 +51,4 @@ git status
 
 ## 🟡 `git add`
 - Adds file changes to the **staging area**.
+- This is the step before committing.
