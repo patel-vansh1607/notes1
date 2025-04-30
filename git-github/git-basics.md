@@ -38,3 +38,4 @@ git clone https://github.com/username/project.git
 - Shows the current state of your working directory and staging area.
 - It tells you which files are:
   - Untracked (new files)
+  - Modified but not staged
