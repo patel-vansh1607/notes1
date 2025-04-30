@@ -44,3 +44,5 @@ git clone https://github.com/username/project.git
 ```bash
 git status
 ```
+
+- Use this frequently to understand what's happening before committing.
