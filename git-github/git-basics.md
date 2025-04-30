@@ -98,3 +98,10 @@ A good commit message helps you and others understand what changes have been mad
 - `test`: Adding or updating tests
 
 ## ✅ Good Examples:
+
+```bash
+git commit -m "feat: add user login functionality"
+git commit -m "fix: resolve crash on null user input"
+git commit -m "docs: update README with setup instructions"
+git commit -m "style: format code using Prettier"
+```
