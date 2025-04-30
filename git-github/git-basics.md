@@ -29,3 +29,5 @@ git clone <repository-url>
 ```bash
 git clone https://github.com/username/project.git
 ```
+
+- It automatically creates a new folder named after the repo and sets the `origin` remote to the URL you cloned from.
